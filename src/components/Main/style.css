@@ -7,11 +7,22 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
+  height: auto;
+  margin-bottom: 20px;
+}
+h2,
+h1 {
+  margin-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .imgsContainer2 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
+  height: auto;
 }
 
 .sobreMin {
@@ -21,20 +32,12 @@
   justify-content: center;
   align-items: center;
   color: red;
-font-size: 2.5rem;
+  font-size: 2.5rem;
   height: 50px;
   width: 320px;
-  margin-top: 40px;
-  margin-bottom: 50px;
-}
-
-.sobreMin:hover{
-  background-color: green;
 }
 
 #frontend {
-  margin-bottom: 100px;
-  margin-top: 90px;
   font-size: 3rem;
 }
 
@@ -354,4 +357,19 @@ font-size: 2.5rem;
 .text-flicker-in-glow {
   -webkit-animation: text-flicker-in-glow 4s linear both;
   animation: text-flicker-in-glow 4s linear both;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#bleg{
+  color: red;
+  font-weight: bolder;
+  font-size: 1.7rem;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 480px) {
+  #frontend {
+    font-size: 1.5rem;
+  }
 }

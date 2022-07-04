@@ -128,7 +128,7 @@ table {
 }
 
 html{
-  background-image: url("./components/Main/assets/back2.gif");
+  background-image: url("./components/projetos/assets/back2.gif");
 }
 
 .App-logo {
@@ -149,7 +149,7 @@ html{
 
 .App-header {
   
-  background-image: url("./components/Main/assets/back2.gif");
+  background-image: url("./components/projetos/assets/back2.gif");
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
