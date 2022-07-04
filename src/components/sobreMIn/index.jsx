@@ -24,7 +24,7 @@ export default function SobreMin() {
               descobri minha paixão pelo mundo da tecnologia e programação e cá
               estou. Sempre em busca de evoluir como pessoa e profissionalmente,
               atrás de desafios que possam me acrescentar algo à ideia que tenho
-              sobre o que é dar o melhor de min mesmo.
+              sobre o que é dar o melhor de mim mesmo.
             </p>
           </div>
         </div>

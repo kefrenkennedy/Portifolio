@@ -27,7 +27,7 @@ export default function Header() {
         DESENVOLVEDOR FRONT END
       </h1>
 
-      <div id="bleg"> SOBRE MIN</div>
+      <div id="bleg"> SOBRE MIM</div>
     </>
   );
 }
