@@ -1,0 +1,44 @@
+#tecnologias {
+  cursor: pointer;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: red;
+  height: 50px;
+  width: 220px;
+  margin-top: 40px;
+}
+
+#tecnologias:hover{
+    background-color: green;
+}
+
+#redHere {
+    color: red;
+}
+
+.sobreMinContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 80vh;
+  border-radius: 200px;
+  background-color: rgba(1, 17, 89, 0.6);
+}
+
+#myPhoto {
+  border-radius: 200px;
+  height: 60%;
+  width: 30%;
+}
+
+#containerTexto {
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50vw;
+}

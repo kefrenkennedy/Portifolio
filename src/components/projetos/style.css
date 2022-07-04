@@ -1,0 +1,75 @@
+#containerProjetos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+#ast{
+    font-style: italic;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+#myProj {
+    color:red;
+    font-size: 2.5rem;
+    margin-top:5px;
+    margin-bottom: 40px;
+}
+
+#kliu{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+#flexHereToo{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#jub {
+    width: 40vw;
+    margin-bottom: 25px;
+}
+#vs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#contProj{
+    margin-bottom: 100px;
+    width: 100%;
+}
+#katr {
+width: 40vw;
+display: flex;
+justify-content: space-around;
+}
+
+#but {
+    cursor: pointer;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: red;
+    height: 50px;
+    width: 220px;
+    margin-top: 40px;
+    font-size: 1.5rem;
+    
+  }
+  a{
+    color:white;
+    font-style: none;
+    text-decoration: none;
+  }
+  
+  #but:hover{
+      background-color: green;
+  }
