@@ -13,7 +13,7 @@ export default function SobreMin() {
           <div id="containerTexto">
             <p>
               Olá, me chamo Kefren! sou um desenvolvedor Front-End e em poucos
-              meses estarei me formando como Full-Stack, seja muito bem vindo ao
+              meses estarei me formando como Full-Stack, seja muito bem-vindo ao
               meu portifólio!
             </p>
             <p>
