@@ -365,7 +365,7 @@ h1 {
   color: red;
   font-weight: bolder;
   font-size: 1.7rem;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 @media screen and (max-width: 480px) {
