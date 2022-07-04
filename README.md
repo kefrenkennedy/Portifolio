@@ -6,4 +6,4 @@ PADRÃO --> CLEAN-CODE
 ----------------------------------------------------------------------------
 BIBLIOTECAS --> STYLED-COMPONENTS 
 ----------------------------------------------------------------------------
-visite o projeto: https://portfolio-nine-sigma-22.vercel.app/
+visite o projeto: https://portfolio-two-tau-49.vercel.app/
